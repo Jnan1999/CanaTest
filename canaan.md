@@ -2,6 +2,6 @@ First
 Second
 Third
 Forth
-change, no add, commit
+change, add, commit
 Test
 Test
